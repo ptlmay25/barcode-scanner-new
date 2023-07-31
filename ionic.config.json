@@ -1,0 +1,7 @@
+{
+  "name": "com.club.100",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
